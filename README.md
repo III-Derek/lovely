@@ -6,3 +6,6 @@ see each other’s daily events in the order they uploaded it. Moreover, the und
 identify and describe the objects, places, restaurants that the other users shared in their daily log. This will help bridge
 the knowledge gap between the two people.
 
+personal access token: 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
+use in place of password because of stupid 2FA authentication
+
